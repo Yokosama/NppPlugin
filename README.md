@@ -40,6 +40,8 @@ c# notepad++ plugin template/c# notepad++插件模板
 
 6、编译后可在Debug目录下在找到32位和64位的dll。复制到Notepad++的plugins目录下，新建与dll相同名称的文件夹，放入dll，然后打开npp即可。
 
+[引用博客](https://www.topcl.net/custom-technology/write-notepad-plus-plus-plugin-get-started-use-c-sharp-in-visual-studio-2017-and-correct-dllexport.html)
+
 # Screenshot
 
 ![avatar](https://github.com/Yokosama/NppPlugin/blob/master/Screenshot/screenshot.png)
